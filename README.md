@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elieblo
-- 💞️ I want to collaborate on HTML and CSS
+- 💞️ I want to collaborate on Python, HTML and CSS
 - 📫 How to reach me: elieb.other@gmail.com
 
 <!---
